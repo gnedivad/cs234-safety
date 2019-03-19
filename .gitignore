@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+datasets
+!datasets/.gitkeep
+models
+!models/.gitkeep
+results
+!results/.gitkeep
+truth
+!truth/.gitkeep
